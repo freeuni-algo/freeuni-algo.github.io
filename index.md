@@ -2,36 +2,16 @@
 
 | კვირა | თემა                                            |                                                                  |                              |
 | ----- | ----------------------------------------------- | ---------------------------------------------------------------- | ---------------------------- |
-| 1     | **DS**: Fibonacci Heaps, MST                    |                                                                  |                              |
-| 2     | **DS**: Persistent, Splay Trees                 |                                                                  |                              |
-| 3     | **DS**: Buckets, vEB Queues, Hashing            |                                                                  |                              |
-| 4     | **Flow**: Intro, Max-Flow Min-Cut               |                                                                  |                              |
-| 5     | **Flow**: Augmenting Path, Strongly Poly-time   |                                                                  |                              |
-| 6     | **Flow**: Blocking Flows, Min Cost Flow         |                                                                  |                              |
-| 7     | **LP**: Introduction, Geometry & Optima         |                                                                  |                              |
-| 8     | **LP**: Weak & Strong Duality, Applications     |                                                                  |                              |
-| 9     | **LP**: Simplex, Ellipsoid, Interior Point      |                                                                  |                              |
-| 10    | **Apx**: Greedy, Schemes, Rounding, Enumeration |                                                                  |                              |
-| 11    | **Apx**: Relaxations                            |                                                                  |                              |
-| 12    | **FPT**: Vertex Cover, Treewidth                |                                                                  |                              |
-| 13    | **Exp**: TSP, Coloring                          |                                                                  |                              |
-| 14    | **CG**: Range Trees, Sweeps, Voronoi Diagrams   |                                                                  |                              |
-| 15    | **Online**: Ski Rental, Finance, K-Server       |                                                                  |                              |
-| 16    | **Stream**: Sketching, Counting                 |                                                                  |                              |
-
-Big Topics:
-- **Data structures** (Fibonacci Heap, Persistent, Splay Trees, Buckets, VeB Queues, Hashing, Perfect Hashing)
-- **Flow** (Maximum Flow, Algorithms, Strongly Poly, Blocking, Min Cost Flow, Algorithms)
-- **Linear Programming** (Introduction, Geometry & Optima, Duality, Practice, Algorithms)
-- **Approximation** (Greedy, Schemes, Relaxations, LP)
-- **Fixed Parameter Tractability** (Introduction, Treewidth)
-- **Comp. Geometry** (Range Search, Sweep, Voronoi)
-- **Online** (Introduction,Paging,Randomized,K-Server,Lower Bounds)
-- **External Memory**
-- **Parallel**
-
-Missing topics:
-- **Sketching and Streaming**
-- **Continuous Optimization**
-- **Dimensionality Reduction**
-- **Better Exact Exponential Algorithms**
+| 1     | **Data Structures**: Fibonacci Heap, vEB Queue  |                                                                  |                              |
+| 2     | **Hashing**: Universal, Perfect                 |                                                                  |                              |
+| 3-4   | **Network Flow**:                               |                                                                  |                              |
+| 5-6   | **Linear Optimization**:                        |                                                                  |                              |
+| 7     | **Combinatorial Optimization**:                 |                                                                  |                              |
+| 8-9   | **Approximation**:                              |                                                                  |                              |
+| 10    | **FPT**:                                        |                                                                  |                              |
+| 11    | **Exponential**:                                |                                                                  |                              |
+| 12    | **Online**:                                     |                                                                  |                              |
+| 13    | **Big Data**:                                   |                                                                  |                              |
+| 14    | **Comp Geometry**:                              |                                                                  |                              |
+| 15    | **Exam Recap**:                                 |                                                                  |                              |
+| 16    | **Project Presentations**                       |                                                                  |                              |
