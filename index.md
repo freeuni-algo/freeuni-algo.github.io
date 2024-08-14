@@ -13,5 +13,5 @@
 | 12    | **Online**:                                     |                                                                  |                              |
 | 13    | **Big Data**:                                   |                                                                  |                              |
 | 14    | **Comp Geometry**:                              |                                                                  |                              |
-| 15    | **Exam Recap**:                                 |                                                                  |                              |
+| 15    | **Exam Recap**                                  |                                                                  |                              |
 | 16    | **Project Presentations**                       |                                                                  |                              |
